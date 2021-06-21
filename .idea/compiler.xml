@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="16video" />
+        <module name="22video" />
+        <module name="19video" />
+        <module name="21video" />
         <module name="SF_15_video" />
         <module name="20video" />
         <module name="17video" />
-        <module name="19video" />
       </profile>
     </annotationProcessing>
   </component>
